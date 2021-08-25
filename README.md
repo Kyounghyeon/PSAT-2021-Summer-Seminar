@@ -21,5 +21,10 @@ This repo is about prediction modeling.
 - Gaussian Naive Bayes Classifier
 - No over/undersampling
 
-**Record**
+**Language**
+ <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+
+
+**Record**<br>
 [Kaggle Leaderboard 1st (TEAM_3)](https://www.kaggle.com/c/p-sat-2021-summer-seminar/leaderboard)
